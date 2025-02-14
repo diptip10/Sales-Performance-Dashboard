@@ -1,8 +1,7 @@
-# Sales-Performance-Dashboard
 
-📊 Sales Performance Dashboard - Power BI
+**Sales Performance Dashboard - Power BI**
 
-📌 Project Overview
+**Project Overview**
 
 This Power BI dashboard provides a comprehensive analysis of sales performance across different dimensions, including:
 
@@ -14,16 +13,16 @@ This Power BI dashboard provides a comprehensive analysis of sales performance a
 
 4) Product-Wise Sales Insights
 
-📁 Files Included
+**Files Included**
 
 1) Sales_Performance_Dashboard.pbix → Full Power BI Report
 2) Sales_Performance_Report.pdf → PDF Export of Dashboard
 3) README.md → Project Documentation
 4) Sales_Data
  
- Dashboard Pages & Insights
+ **Dashboard Pages & Insights**
 
-📄 Page 1: Sales Overview
+**Page 1: Sales Overview**
 
 1) Total Sales (Card Visual)
 
@@ -35,7 +34,7 @@ This Power BI dashboard provides a comprehensive analysis of sales performance a
 
 5) Region-Wise Sales (Slicer)
 
-📄 Page 2: Regional Sales Analysis
+**Page 2: Regional Sales Analysis**
 
 1) Total Sales by Region (Column Chart) - Sorted & Labeled
 
@@ -45,7 +44,7 @@ This Power BI dashboard provides a comprehensive analysis of sales performance a
 
 4) Region & State Slicers Added and Formatted
 
-📄 Page 3: Trend Analysis
+**Page 3: Trend Analysis**
 
 1) Monthly Sales Trend (Line Chart) - Formatted
 
@@ -53,7 +52,7 @@ This Power BI dashboard provides a comprehensive analysis of sales performance a
 
 3) Year & Month Slicers Added and Configured
 
-📄 Page 4: Customer Insights
+**Page 4: Customer Insights**
 
 1) Top Customers by Sales (Bar Chart) - Filtered & Sorted
 
@@ -61,13 +60,13 @@ This Power BI dashboard provides a comprehensive analysis of sales performance a
 
 3) Customer Name & Segment Slicers Added and Configured
 
-🛠 Tools & Technologies Used
+**Tools & Technologies Used**
 
 1) Power BI – Data Visualization
 2) SQL – Data Cleaning & Preprocessing
 3) DAX (Data Analysis Expressions) – Custom Measures & Calculations
 
-📌 How to Use This Project?
+**How to Use This Project?**
 
 1) Download Sales_Performance_Dashboard.pbix
 2) Open it in Power BI Desktop
