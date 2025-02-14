@@ -64,7 +64,7 @@ This Power BI dashboard provides a comprehensive analysis of sales performance a
 🛠 Tools & Technologies Used
 
 1) Power BI – Data Visualization
-2) Excel / SQL – Data Cleaning & Preprocessing
+2) SQL – Data Cleaning & Preprocessing
 3) DAX (Data Analysis Expressions) – Custom Measures & Calculations
 
 📌 How to Use This Project?
